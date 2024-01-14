@@ -32,7 +32,7 @@
 - [ ] fallback() external payable { ... } (msg.data should not be empty)
 - [ ] receive() external payable { ... } (msg.data should be empty)
 
-![image](https://github.com/ggggtttt/sch-checklist/assets/20614295/6f518118-83c7-40e0-94e5-f1bcaf7e263e)
+![image](https://github.com/ggggtttt/smart-contract-hacking-checklist/assets/20614295/811d4c37-3dcb-47c5-a0ee-eaa3305eb146)
 
 - [ ] Whether Checks Effects Interactions (CEI) pattern is in place?
 - [ ] The onERC721Received() can cause reentrancy for ERC721, NFTs.
